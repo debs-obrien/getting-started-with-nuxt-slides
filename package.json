@@ -11,8 +11,7 @@
     "mdx-deck": "^4.1.1"
   },
   "dependencies": {
-    "@debs-obrien/design.pill": "0.0.1",
-    "node-sass": "^5.0.0",
-    "sass": "^1.32.8"
+    "@debs-obrien/base.test.twitter": "0.0.1",
+    "@debs-obrien/design.button": "0.0.4"
   }
 }
