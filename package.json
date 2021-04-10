@@ -11,7 +11,6 @@
     "mdx-deck": "^4.1.1"
   },
   "dependencies": {
-    "@debs-obrien/base.test.twitter": "0.0.1",
-    "@debs-obrien/design.button": "0.0.4"
+    "@debs-obrien/base.test.twitter": "0.0.1"
   }
 }
